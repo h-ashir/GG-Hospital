@@ -690,3 +690,9 @@ footer .copyright{
     opacity: .5;
     font-size: 12px;
 }
+
+button:hover{
+    cursor: pointer;
+    transition: .4s linear;
+    transform: scale(1.05);
+}
